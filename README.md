@@ -5,7 +5,7 @@
 1. Clone the repository.
 2. Create a virtual environment.
 3. Install dependencies: `pip install -r requirements.txt`
-4. Apply migrations: `python manage.py migrate` then `python manage.py make migrations`
+4. Apply migrations: `python manage.py makemigrations` then `python manage.py migrate`
 6. Run the development server: `python manage.py runserver`
 
 ## API Endpoints
