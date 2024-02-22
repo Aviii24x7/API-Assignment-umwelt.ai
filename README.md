@@ -11,15 +11,15 @@
 ## API Endpoints
 
 - Categories: `/categories/`
-  http://127.0.0.1:8000/categories/ - for GET and POST HTTP requests
+  http://127.0.0.1:8000/categories/ - for GET and POST HTTP requests AND
   http://127.0.0.1:8000/categories/<pk>/ - for PUT, PATCH, DELETE, GET HTTP requests
   
 - Products: `/products/`
-  http://127.0.0.1:8000/products/ - for GET and POST HTTP requests
+  http://127.0.0.1:8000/products/ - for GET and POST HTTP requests AND
   http://127.0.0.1:8000/products/<pk>/ - for PUT, PATCH, DELETE, GET HTTP requests
   
 - Orders: `/orders/`
-  http://127.0.0.1:8000/orders/ - for GET and POST HTTP requests
+  http://127.0.0.1:8000/orders/ - for GET and POST HTTP requests AND
   http://127.0.0.1:8000/orders/<pk>/ - for PUT, PATCH, DELETE, GET HTTP requests
 
 ## API Documentation
